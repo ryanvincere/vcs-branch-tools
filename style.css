@@ -2,17 +2,17 @@ body {
 	width: 300px;
 	margin: 0;
 	word-break: break-word;
-	background-color: #585b5f;
+	background-color: #f8f8f8;
 }
 
 .w3-oranges {
-	background: #ff9100;
+	background: #C0392B;
 	color: #fff !important;
 	text-align: center;
 }
 
 .header {
-	background: #ff9100;
+	background: #C0392B;
 	color: #fff;
 	padding: 10px 20px;
 	font-weight: bold;
@@ -20,14 +20,14 @@ body {
 
 .content {
 	padding: 20px;
-	color: #fff;
+	color: #222;
 	font-size: 14px;
 	box-sizing: border-box;
 }
 
 .description {
 	font-size: 12px;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 
 .indicator {
@@ -61,11 +61,10 @@ body {
 
 .url input {
 	width: 100%;
-	border: none;
+	border: 1px solid #ddd;
 	padding: 10px;
 	height: 40px;
 	font-size: 12px;
-	margin-bottom: 10px;
 }
 
 .btn {
