@@ -5,6 +5,19 @@ body {
 	background-color: #f8f8f8;
 }
 
+.form_url {
+	display: flex;
+	align-items: center;
+}
+
+.form_url input {
+	margin-right: 20px;
+}
+
+.form_url svg {
+	cursor: pointer;
+}
+
 .w3-oranges {
 	background: #C0392B;
 	color: #fff !important;
