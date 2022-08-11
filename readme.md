@@ -8,4 +8,4 @@
 - Select the `vcs-branch-tools` folder that you created in `step 1`
 
 ## How to Use
-![video](https://youtube.com/watch?v=gQtBq71QJOE)
+[video](https://youtube.com/watch?v=gQtBq71QJOE)
